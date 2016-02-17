@@ -1,4 +1,4 @@
-# generator-djangospa
+# generator-angular2spa
 
 Create a simple single page application using Angular 2!!
 
