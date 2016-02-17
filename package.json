@@ -1,0 +1,28 @@
+{
+  "name": "generator-angular2spa",
+  "version": "1.0.0",
+  "description": "Create a start project of a simple single page app using Angular 2",
+  "keywords": [
+    "yeoman-generator",
+    "angular2",
+    "angular",
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/dfurtado/generator-angular2spa",
+  "bugs": "https://github.com/dfurtado/generator-angular2spa/issues",
+  "author": {
+    "name": "Daniel Furtado",
+    "email": "daniel@dfurtado.com",
+    "url": "https://github.com/dfurtado"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "yeoman-generator": "^0.22.5",
+    "yosay": "^1.1.0"
+  }
+}
