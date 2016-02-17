@@ -83,6 +83,7 @@ Generator.prototype.install = function() {
 
     this.installDependencies({ 
         npm: true,
+        bower: false,
         callback: function() {
             console.log(yosay("We are all done, just cd into your project folder and run: npm start"));
         }.bind(this)
