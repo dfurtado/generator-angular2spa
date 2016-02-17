@@ -15,6 +15,10 @@
     "email": "daniel@dfurtado.com",
     "url": "https://github.com/dfurtado"
   },
+   "repository": {
+    "type": "git",
+    "url": "git://github.com/dfurtado/generator-angular2spa.git"
+  },
   "engines": {
     "node": ">=0.8.0",
     "npm": ">=1.2.10"
