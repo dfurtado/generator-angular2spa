@@ -1,4 +1,4 @@
-# generator-djangospa
+# generator-angular2spa
 
 Create a simple single page application using Angular 2!!
 
@@ -20,6 +20,8 @@ $ yo angular2spa
 Enter the **project name**, **project description** and the **project license**.
 
 The generator setup the project folder structure and download all the dependencies.
+
+When the npm is downloading the dependencies it might occur a few errors, just ignore them and you're all set. ;)
 
 ## Starting the site
 ```
